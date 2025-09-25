@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "shoaibsajid1",
+    "email": "dev@shoaibsajid.com"
+  },
+  "records": {
+    "CNAME": "shoaibsajid.com"
+  },
+  "proxied": false
+}
